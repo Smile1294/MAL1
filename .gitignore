@@ -1,2 +1,4 @@
 #ignore all files ending with .pptx
 *.pptx
+*.nc
+*.csv
